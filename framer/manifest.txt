@@ -127,6 +127,17 @@ node_modules/@framer/floris.unsplash/code/canvas.tsx
 node_modules/@framer/floris.unsplash/code/Unsplash.tsx
 node_modules/@framer/floris.unsplash/build/index.js
 node_modules/@framer/floris.unsplash/README.md
+node_modules/@framer/derlukas.scroll-away/tsconfig.json
+node_modules/@framer/derlukas.scroll-away/package.json
+node_modules/@framer/derlukas.scroll-away/metadata/icon.png
+node_modules/@framer/derlukas.scroll-away/metadata/artwork.png
+node_modules/@framer/derlukas.scroll-away/dist/index.js
+node_modules/@framer/derlukas.scroll-away/design/document.json
+node_modules/@framer/derlukas.scroll-away/code/canvas.tsx
+node_modules/@framer/derlukas.scroll-away/code/ScrollAway.tsx
+node_modules/@framer/derlukas.scroll-away/code/App.tsx
+node_modules/@framer/derlukas.scroll-away/build/index.js
+node_modules/@framer/derlukas.scroll-away/README.md
 node_modules/@framer/ctruansky.long-press/tsconfig.json
 node_modules/@framer/ctruansky.long-press/package.json
 node_modules/@framer/ctruansky.long-press/metadata/icon.png
@@ -160,6 +171,7 @@ node_modules/@framer/bfagan.swipe-actions/code/canvas.tsx
 node_modules/@framer/bfagan.swipe-actions/README.md
 design/images/zT86b89pDcOsBkEeymyCVTUkvbQ.png
 design/images/z285hQrNGwEbgpREnviWMiqM.png
+design/images/yycGDBW6UQpzU7q9hhoMbL99RF4.png
 design/images/xPkK11NRU541awlquCMJ87lOWDQ.png
 design/images/wzMxEi5OlE3jwZPJUCPWYWq6I.png
 design/images/wOTnwnYLO8gpSfetG4AKstV5u4.png
@@ -185,6 +197,7 @@ design/images/dKVS21tjkXsUlOsV16sSdQWwmWo.png
 design/images/cpBAbuvhdtdGc7IaDfuVzQxMYpo.png
 design/images/a8oWCiQUXU4iV3iqZisOFQ0aYI.png
 design/images/Yt3OQaIf1o7O1XIl3LIP2PZTpk.png
+design/images/YsDeP2TQYTMGME9XacZYiHIIf08.png
 design/images/XhwRpCs0p66irYbdWzyeBOhJas.png
 design/images/XOY4u2dzQy539bWyZBPd8FJwZlI.png
 design/images/VrpgXgu25wYKA5Z6kECrtI8XiMc.png
@@ -202,6 +215,7 @@ design/images/Jxak5jINciRvaSoMyZw9hvZI.png
 design/images/Jw81oFsh2BEF4qF1BvizxS0yxFk.png
 design/images/IsDj8leSdKCGUWmED5nfeM6UgU.png
 design/images/F9rNmSSTIF3WLhuSPCHTAt2Ax4A.png
+design/images/EuUnJwL6UsPqKbVYctMS00nZPM.png
 design/images/EZTd4y1IamMD736ooutVebIPt8.png
 design/images/E8yAaWj9kljxhpGcJ6aUSleUrh0.png
 design/images/CWMsJq87y7veuYyEj8IxNiDjTI.png
@@ -215,6 +229,7 @@ design/images/3Cjfh9aGnIop1F4vBvAo9qEzk8.png
 design/images/30raGqYMyNQ3gJskRWAeDcDarY.png
 design/images/2ZhjsjUTOFIXySkSrJs5iz2NIfE.png
 design/images/21l0ZNW6w13vLgTCCVLccQ7Zk.png
+design/images/0vk7JQRDpIo9t1CbGdt2M0uQT0.png
 design/images/0MtNpjEDpEAgElqxXoaLdiKXH4k.png
 design/images/0MOBGtZJR6gAwT3UdobBwVJFo.png
 build/vendors.js
